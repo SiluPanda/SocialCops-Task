@@ -1,2 +1,2 @@
 # SocialCops-Task
-Task for SocialCops on data visualization and analysis
+This is not the final submission. Till now done till cleaning of the data.
